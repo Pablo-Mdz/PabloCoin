@@ -1,6 +1,6 @@
 # ₿ Cigochi Token – A Unique Token of Friendship
 
-https://file+.vscode-resource.vscode-cdn.net/Users/pablo.cigoy/Documents/programacion/PabloCoin/PabloCoin-logo1.png?version%3D1740087649915
+![PabloCoin Logo](images/PabloCoin-logo1.png)
 
 ## 📌 About Cigochi  
 This blockchain contains **1,000,000 Cigochis**, a special token created as a unique way to express appreciation and friendship. Cigochis are **not for sale** and will be distributed exclusively to people I consider my friends.  
