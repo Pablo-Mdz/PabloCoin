@@ -1,28 +1,23 @@
-REMIX DEFAULT WORKSPACE
+# Cigochi Token - A Unique Token of Friendship
 
-Remix default workspace is present when:
-i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
+## About Cigochi  
+This blockchain contains **1,000,000 Cigochis**, a special token created as a unique way to express appreciation and friendship. Cigochis are **not for sale** and will be distributed exclusively to people I consider my friends. If you have Cigochis, it means you have my affection and friendship!  
 
-This workspace contains 3 directories:
+## How to Receive Cigochis  
+Cigochis will be sent manually to selected individuals. If you receive Cigochis, it’s because I appreciate you. You don’t need to do anything to earn them—just be yourself!  
 
-1. 'contracts': Holds three contracts with increasing levels of complexity.
-2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
-3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
+## How to Add Cigochis to Your Wallet  
+To view your Cigochis in **MetaMask** or any other compatible wallet, follow these steps:  
 
-SCRIPTS
+1. Open your wallet and go to **"Import Token"** or **"Add Custom Token"**.  
+2. Select the **Polygon network** (since Cigochis exist on Polygon).  
+3. Enter the **Contract Address** of the Cigochi token.  
+4. Confirm, and you should see your Cigochi balance!  
 
-The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
+## Disclaimer  
+Cigochis have no monetary value and are purely symbolic. They exist only as a **fun and personal way to show appreciation**.  
 
-For the deployment of any other contract, just update the contract name from 'Storage' to the desired contract and provide constructor arguments accordingly 
-in the file `deploy_with_ethers.ts` or  `deploy_with_web3.ts`
+## Technical Details  
+Cigochi was created using a **smart contract written in Solidity**, deployed through **Remix IDE**, and operates on the **Polygon network**.  
 
-In the 'tests' folder there is a script containing Mocha-Chai unit tests for 'Storage' contract.
-
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-Output from script will appear in remix terminal.
-
-Please note, require/import is supported in a limited manner for Remix supported modules.
-For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
-For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+Enjoy your Cigochis and know that you are valued! 😊💙  
