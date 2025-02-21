@@ -35,6 +35,9 @@ They exist only as a **fun and personal way to show appreciation**.
 ## 🛠️ Technical Details  
 Cigochi was created using a **smart contract written in Solidity**, deployed through **Remix IDE**, and operates on the **Polygon network**.  
 
+## 🌐 Cigochi Token
+If you want to explore the contract and see how it works, you can check it out here:  
+🔗 [View the contract on PolygonScan](https://polygonscan.com/token/0x93b0b1600e2c1a587f593be7e372a238f34126a2) 🔍
 ---
 
 Enjoy your Cigochis and know that you are **valued!** 😊💙  
